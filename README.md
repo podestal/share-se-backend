@@ -4,3 +4,10 @@ This repository is the backend side of the Share Streaming Accounts platforms, w
 The backend is build with Django, the DB is going to be Aurora from aws which is SQL
 
 The models:
+- User
+ * first_name
+ * last_name
+ * profila_pic
+ * email
+ * DOB
+ * membership
